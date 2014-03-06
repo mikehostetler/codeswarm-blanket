@@ -1,0 +1,20 @@
+{
+  "name": "codeswarm-blanket",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Blanket.js Code Coverage for CodeSwarm",
+  "main": "worker.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codeswarm/codeswarm-blanket.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codeswarm/codeswarm-blanket/issues"
+  },
+  "homepage": "https://github.com/codeswarm/codeswarm-blanket",
+  "dependencies": {
+    "async": "~0.2.10",
+    "shelly": "0.0.3",
+		"blanket": "1.1.6"
+  }
+}
